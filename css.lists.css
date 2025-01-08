@@ -1,0 +1,21 @@
+ol {
+    background-color: lightcyan;
+    color: turquoise;
+    font-size: large;
+    font-style: italic;
+    border: 1px solid lightsalmon;
+    text-align: center;
+    box-shadow: 5px 5px 10px #514c4c;
+
+
+}
+
+ul{
+    background-color: lightcoral;
+    color: white;
+    border: 1px solid gray;
+    text-align: center;
+    right: 50px;
+    left: 50px;
+    box-shadow: 5px 5px 10px rgb(11, 14, 11);s
+}
